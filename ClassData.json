@@ -4,22 +4,13 @@
         "Classname": "Cơ sở Lập trình web",
         "Teach": "Phương Văn Cảnh",
         "Notice":[
-            "Tin tức 1",
-            "Tin tức 2",
-            "Tin tức 3",
-            "Tin tức 4"
+            "Tin tức 1"
         ],
         "Work": [
-            "Bài Thực hành 4",
-            "Bài Thực hành 3",
-            "Bài Thực hành 2",
-            "Bài Thực hành 1"
+            "Bài Thực hành 4"
         ],
         "Student": [
-            "Học Sinh 1",
-            "Học Sinh 2",
-            "Học Sinh 3",
-            "Học Sinh 4"
+            "Học Sinh 1"
         ]
     },
     {
@@ -27,22 +18,13 @@
         "Classname": "Lập trình web nâng cao",
         "Teach": "Phương Văn Cảnh",
         "Notice":[
-            "Tin tức 5",
-            "Tin tức 6",
-            "Tin tức 7",
-            "Tin tức 8"
+            "Tin tức 2"
         ],
         "Work": [
-            "Bài Thực hành 4",
-            "Bài Thực hành 3",
-            "Bài Thực hành 2",
-            "Bài Thực hành 1"
+            "Bài Thực hành 3"
         ],
         "Student": [
-            "Học Sinh 1",
-            "Học Sinh 2",
-            "Học Sinh 3",
-            "Học Sinh 4"
+            "Học Sinh 2"
         ]
     },
     {
@@ -50,22 +32,13 @@
         "Classname": "Công nghệ phần mềm",
         "Teach": "Lê Thị Trang Linh",
         "Notice":[
-            "Tin tức 1",
-            "Tin tức 2",
-            "Tin tức 3",
-            "Tin tức 4"
+            "Tin tức 3"
         ],
         "Work": [
-            "Bài Thực hành 4",
-            "Bài Thực hành 3",
-            "Bài Thực hành 2",
-            "Bài Thực hành 1"
+            "Bài Thực hành 2"
         ],
         "Student": [
-            "Học Sinh 1",
-            "Học Sinh 2",
-            "Học Sinh 3",
-            "Học Sinh 4"
+            "Học Sinh 3"
         ]
     },
     {
@@ -73,21 +46,12 @@
         "Classname": "Trí tuệ nhân tạo",
         "Teach": "Vũ Văn Định",
         "Notice":[
-            "Tin tức 1",
-            "Tin tức 2",
-            "Tin tức 3",
             "Tin tức 4"
         ],
         "Work": [
-            "Bài Thực hành 4",
-            "Bài Thực hành 3",
-            "Bài Thực hành 2",
             "Bài Thực hành 1"
         ],
         "Student": [
-            "Học Sinh 1",
-            "Học Sinh 2",
-            "Học Sinh 3",
             "Học Sinh 4"
         ]
     },
@@ -96,22 +60,12 @@
         "Classname": "Phần mềm mã nguồn mở",
         "Teach": "Phạm Hồng Đức",
         "Notice":[
-            "Tin tức 1",
-            "Tin tức 2",
-            "Tin tức 3",
-            "Tin tức 4"
+            "Tin tức 5"
         ],
         "Work": [
-            "Bài Thực hành 4",
-            "Bài Thực hành 3",
-            "Bài Thực hành 2",
-            "Bài Thực hành 1"
         ],
         "Student": [
-            "Học Sinh 1",
-            "Học Sinh 2",
-            "Học Sinh 3",
-            "Học Sinh 4"
+            "Học Sinh 5"
         ]
     },
     {

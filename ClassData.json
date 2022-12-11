@@ -1,6 +1,8 @@
 [
     {
         "id": 1,
+        "Classname": "Lập trình hệ thống",
+        "Teach": "Phương Văn Cảnh",
         "Notification":[
             "Thông báo 1"
         ],
@@ -16,6 +18,8 @@
     },
     {
         "id": 2,
+        "Classname": "Cơ sở Lập trình web",
+        "Teach": "Phương Văn Cảnh",
         "Notification":[
             "Thông báo 2"
         ],
@@ -31,6 +35,8 @@
     },
     {
         "id": 3,
+        "Classname": "Lập trình web nâng cao",
+        "Teach": "Phương Văn Cảnh",
         "Notification":[
             "Thông báo 3"
         ],
@@ -46,6 +52,8 @@
     },
     {
         "id": 4,
+        "Classname": "Công nghệ phần mềm",
+        "Teach": "Lê Thị Trang Linh",
         "Notification":[
             "Thông báo 4"
         ],
@@ -61,6 +69,8 @@
     },
     {
         "id": 5,
+        "Classname": "Trí tuệ nhân tạo",
+        "Teach": "Vũ Văn Định",
         "Notification":[
             "Thông báo 5"
         ],
@@ -76,6 +86,8 @@
     },
     {
         "id": 6,
+        "Classname": "Phần mềm mã nguồn mở",
+        "Teach": "Phạm Hồng Đức",
         "Notification":[
             "Thông báo 6"
         ],
@@ -91,6 +103,8 @@
     },
     {
         "id": 7,
+        "Classname": "Lập trình thiết bị di động",
+        "Teach": "Cấn Đức Điệp",
         "Notification":[
             "Thông báo 7"
         ],
@@ -106,6 +120,8 @@
     },
     {
         "id": 8,
+        "Classname": "Cấu trúc dữ liệu và giải thuật",
+        "Teach": "Vũ Văn Định",
         "Notification":[
             "Thông báo 8"
         ],
@@ -121,6 +137,8 @@
     },
     {
         "id": 9,
+        "Classname": "Lịch sử Đảng",
+        "Teach": "Đoàn Thị Lệ Huyền",
         "Notification":[
             "Thông báo 9"
         ],
@@ -136,6 +154,8 @@
     },
     {
         "id": 10,
+        "Classname": "Phân tích thiết kế hệ thống thông tin",
+        "Teach": "Lê Thị Trang Linh",
         "Notification":[
             "Thông báo 10"
         ],
@@ -151,6 +171,8 @@
     },
     {
         "id": 11,
+        "Classname": "Lập trình Java",
+        "Teach": "Đặng Trần Đức",
         "Notification":[
             "Thông báo 11"
         ],
@@ -166,6 +188,8 @@
     },
     {
         "id": 12,
+        "Classname": "Lập trình .NET",
+        "Teach": "Phương Văn Cảnh",
         "Notification":[
             "Thông báo 12"
         ],

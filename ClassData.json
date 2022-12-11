@@ -1,6 +1,9 @@
 [
     {
         "id": 1,
+        "Notification":[
+            "Thông báo 1"
+        ],
         "Notice":[
             "Tin tức 1"
         ],
@@ -13,6 +16,9 @@
     },
     {
         "id": 2,
+        "Notification":[
+            "Thông báo 2"
+        ],
         "Notice":[
             "Tin tức 2"
         ],
@@ -25,6 +31,9 @@
     },
     {
         "id": 3,
+        "Notification":[
+            "Thông báo 3"
+        ],
         "Notice":[
             "Tin tức 3"
         ],
@@ -37,6 +46,9 @@
     },
     {
         "id": 4,
+        "Notification":[
+            "Thông báo 4"
+        ],
         "Notice":[
             "Tin tức 4"
         ],
@@ -49,6 +61,9 @@
     },
     {
         "id": 5,
+        "Notification":[
+            "Thông báo 5"
+        ],
         "Notice":[
             "Tin tức 5"
         ],
@@ -61,6 +76,9 @@
     },
     {
         "id": 6,
+        "Notification":[
+            "Thông báo 6"
+        ],
         "Notice":[
             "Tin tức 6"
         ],
@@ -73,6 +91,9 @@
     },
     {
         "id": 7,
+        "Notification":[
+            "Thông báo 7"
+        ],
         "Notice":[
             "Tin tức 7"
         ],
@@ -85,6 +106,9 @@
     },
     {
         "id": 8,
+        "Notification":[
+            "Thông báo 8"
+        ],
         "Notice":[
             "Tin tức 8"
         ],
@@ -97,6 +121,9 @@
     },
     {
         "id": 9,
+        "Notification":[
+            "Thông báo 9"
+        ],
         "Notice":[
             "Tin tức 9"
         ],
@@ -109,6 +136,9 @@
     },
     {
         "id": 10,
+        "Notification":[
+            "Thông báo 10"
+        ],
         "Notice":[
             "Tin tức 10"
         ],
@@ -121,6 +151,9 @@
     },
     {
         "id": 11,
+        "Notification":[
+            "Thông báo 11"
+        ],
         "Notice":[
             "Tin tức 11"
         ],
@@ -133,6 +166,9 @@
     },
     {
         "id": 12,
+        "Notification":[
+            "Thông báo 12"
+        ],
         "Notice":[
             "Tin tức 12"
         ],

@@ -1,13 +1,11 @@
 [
     {
         "id": 1,
-        "Classname": "Cơ sở Lập trình web",
-        "Teach": "Phương Văn Cảnh",
         "Notice":[
             "Tin tức 1"
         ],
         "Work": [
-            "Bài Thực hành 4"
+            "Bài Thực hành 1"
         ],
         "Student": [
             "Học Sinh 1"
@@ -15,13 +13,11 @@
     },
     {
         "id": 2,
-        "Classname": "Lập trình web nâng cao",
-        "Teach": "Phương Văn Cảnh",
         "Notice":[
             "Tin tức 2"
         ],
         "Work": [
-            "Bài Thực hành 3"
+            "Bài Thực hành 2"
         ],
         "Student": [
             "Học Sinh 2"
@@ -29,13 +25,11 @@
     },
     {
         "id": 3,
-        "Classname": "Công nghệ phần mềm",
-        "Teach": "Lê Thị Trang Linh",
         "Notice":[
             "Tin tức 3"
         ],
         "Work": [
-            "Bài Thực hành 2"
+            "Bài Thực hành 3"
         ],
         "Student": [
             "Học Sinh 3"
@@ -43,13 +37,11 @@
     },
     {
         "id": 4,
-        "Classname": "Trí tuệ nhân tạo",
-        "Teach": "Vũ Văn Định",
         "Notice":[
             "Tin tức 4"
         ],
         "Work": [
-            "Bài Thực hành 1"
+            "Bài Thực hành 4"
         ],
         "Student": [
             "Học Sinh 4"
@@ -57,15 +49,98 @@
     },
     {
         "id": 5,
-        "Classname": "Phần mềm mã nguồn mở",
-        "Teach": "Phạm Hồng Đức",
         "Notice":[
             "Tin tức 5"
         ],
         "Work": [
+            "Bài Thực hành 5"
         ],
         "Student": [
             "Học Sinh 5"
+        ]
+    }
+    {
+        "id": 6,
+        "Notice":[
+            "Tin tức 6"
+        ],
+        "Work": [
+            "Bài Thực hành 6"
+        ],
+        "Student": [
+            "Học Sinh 6"
+        ]
+    }
+    {
+        "id": 7,
+        "Notice":[
+            "Tin tức 7"
+        ],
+        "Work": [
+            "Bài Thực hành 7"
+        ],
+        "Student": [
+            "Học Sinh 7"
+        ]
+    }
+    {
+        "id": 8,
+        "Notice":[
+            "Tin tức 8"
+        ],
+        "Work": [
+            "Bài Thực hành 8"
+        ],
+        "Student": [
+            "Học Sinh 8"
+        ]
+    }
+    {
+        "id": 9,
+        "Notice":[
+            "Tin tức 9"
+        ],
+        "Work": [
+            "Bài Thực hành 9"
+        ],
+        "Student": [
+            "Học Sinh 9"
+        ]
+    }
+    {
+        "id": 10,
+        "Notice":[
+            "Tin tức 10"
+        ],
+        "Work": [
+            "Bài Thực hành 10"
+        ],
+        "Student": [
+            "Học Sinh 10"
+        ]
+    }
+    {
+        "id": 11,
+        "Notice":[
+            "Tin tức 11"
+        ],
+        "Work": [
+            "Bài Thực hành 11"
+        ],
+        "Student": [
+            "Học Sinh 11"
+        ]
+    }
+    {
+        "id": 12,
+        "Notice":[
+            "Tin tức 12"
+        ],
+        "Work": [
+            "Bài Thực hành 12"
+        ],
+        "Student": [
+            "Học Sinh 12"
         ]
     }
 ]
